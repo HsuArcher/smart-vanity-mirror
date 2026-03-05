@@ -90,16 +90,18 @@ The ESP8266 outputs 3.3V logic levels, while the NeoPixel LEDs requires a reliab
 
 ---
 
-## Touch Senssors
+## Touch Sensors
 
 ## Capacitive Touch Controller
 
-**Decision:** MPR121 used for capactive touch sensing
+**Decision:** FDC1004QDGSRQ1 used for capactive touch sensing
 
 **Reasoning:**
 - Supports multiple independent electrodes 
 - Proven performance for touch detection through non-conductive materials
 
+**Notes:**
+- Due to the limitations of manufactoring the MPR121 could not be used. 
 ---
 
 ## USB Interface

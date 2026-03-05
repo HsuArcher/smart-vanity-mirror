@@ -1,4 +1,4 @@
-26777897709253682
+26783212583204417
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105686,6 +105686,13 @@ valve
 9
 8
 VanityMirror_FootPrints
+INDPM110100X400N
+SRP1038
+Inductor
+0
+2
+2
+VanityMirror_FootPrints
 MFMSMF3006X2
 1812_2025-1.01
 Resettable Fuse
@@ -105707,12 +105714,26 @@ SN74AHCT125N
 14
 14
 VanityMirror_FootPrints
+SOP50P490X110-10N
+FDC1004QDGSRQ1
+Integrated Circuit
+0
+10
+10
+VanityMirror_FootPrints
 SOT95P280X145-5N
 DBV0005A
 Integrated Circuit
 0
 5
 5
+VanityMirror_FootPrints
+Untitled
+
+
+0
+0
+0
 Varistor
 RV_Disc_D7mm_W3.4mm_P5mm
 Varistor, diameter 7mm, width 3.4mm, pitch 5mm
