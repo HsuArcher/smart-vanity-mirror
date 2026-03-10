@@ -1,4 +1,4 @@
-26783212583204417
+26784985585955566
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105699,6 +105699,13 @@ Resettable Fuse
 0
 2
 2
+VanityMirror_FootPrints
+PMEG2020EPASX
+DFN2020D-3 (SOT1061D)_2021
+Transistor BJT PNP
+0
+3
+3
 VanityMirror_FootPrints
 QFN20_FRE
 
