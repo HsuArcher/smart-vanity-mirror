@@ -14,7 +14,7 @@ Custom built ESP8266 based smart vanity mirror with touch controls, USB-C power 
 What this shows:
 USB-C Programmer and Power Supply, Voltage Regulation, ESP8266 Microcontroller, Touch Input Circuit, LED Output Stage
 
-![Electrical Schematic](/Docs/Images/VMP_Electrical_Schematic.jpg)
+![Electrical Schematic](/Docs/Images/VMP_Electrical_Schematic.pdf)
 
 ### USB-C and USB to Serial Port
 
