@@ -2,18 +2,18 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 1.0,
+      "images": 0.6,
       "pads": 1.0,
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 1.0
+      "zones": 0.6
     },
     "prototype_zone_fills": false,
     "selection_filter": {
@@ -21,7 +21,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -61,7 +61,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Vanity_Mirror_Project.kicad_prl",
+    "filename": "Vanity_Mirror_Project_V2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -90,16 +90,16 @@
       9
     ],
     "col_widths": [
-      222,
-      207,
-      137,
-      92,
-      137,
-      137,
-      137,
-      98,
-      137,
-      137
+      162,
+      147,
+      91,
+      67,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
