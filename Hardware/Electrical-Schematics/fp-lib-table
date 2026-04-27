@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "VanityMirror_FootPrints") (type "KiCad") (uri "${KIPRJMOD}/VanityMirror_FootPrints") (options "") (descr ""))
-)

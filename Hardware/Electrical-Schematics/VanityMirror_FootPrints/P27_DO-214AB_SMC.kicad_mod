@@ -1,0 +1,213 @@
+(footprint "P27_DO-214AB_SMC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Diotec SMC (DO-214AB), Diode")
+	(tags "Diode SMC (DO-214AB)")
+	(property "Reference" "REF**"
+		(at 3 -4 0)
+		(layer "F.SilkS")
+		(uuid "09198598-317c-4f6a-90d6-6e69ce53d988")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SMC_SMD-Diode"
+		(at 3.5 2.5 0)
+		(layer "F.Fab")
+		(uuid "d61eb126-2466-40fb-96ed-7a06317c98e4")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.09)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccc41b76-9eb3-4b58-a00a-07c8b0e55946")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b034681-55dd-49fc-8c8d-af151db8b606")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.6 -3.25)
+		(end 6.85 -3.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16759d3f-9c3a-47c6-b86f-9e9832c51133")
+	)
+	(fp_line
+		(start -1.6 3.25)
+		(end -1.6 -3.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "add88cad-b15f-4f32-abd3-a865c566f83d")
+	)
+	(fp_line
+		(start -1.6 3.25)
+		(end 6.91 3.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0af4214-a064-4dd4-a763-4d33e80dfb4c")
+	)
+	(fp_line
+		(start -1.65 -3.35)
+		(end 8.15 -3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e28c8f18-d6d5-4aa3-b740-2c2e7844aedc")
+	)
+	(fp_line
+		(start -1.65 3.35)
+		(end -1.65 -3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3e13f520-4bee-49c4-953e-4ec7a0955afd")
+	)
+	(fp_line
+		(start 8.15 -3.35)
+		(end 8.15 3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a98c289-de13-4c7b-971c-e784cf72e041")
+	)
+	(fp_line
+		(start 8.15 3.35)
+		(end -1.65 3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3af7f536-315c-4b5d-b6f9-ec0ee2f86111")
+	)
+	(fp_line
+		(start -0.3 3.1)
+		(end -0.3 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6502e1f5-0b88-4018-81b7-5b81414e2d80")
+	)
+	(fp_line
+		(start 6.8 -3.1)
+		(end -0.3 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8ee42556-f42a-4d20-98bf-433b40f7cde3")
+	)
+	(fp_line
+		(start 6.8 -3.1)
+		(end 6.8 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7fc56e84-58c3-408a-890f-21bad4964808")
+	)
+	(fp_line
+		(start 6.8 3.1)
+		(end -0.3 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4cf49263-cb47-4082-b09a-14c6a2b45918")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3 -4 0)
+		(layer "F.Fab")
+		(uuid "ba3eb660-556b-4ebf-849b-076380b78295")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 0 180)
+		(size 1.7 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "ff4018ae-8c71-4d16-9f2f-d069c46c6aa4")
+	)
+	(pad "2" smd roundrect
+		(at 6.5 0 180)
+		(size 1.7 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "0f9feb86-c53f-4348-9817-367cce0e98f9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "F:/data/Elektronik/KiCad/Models/Diotec-3D-Models/p27_SMC_DO-214AB.stp"
+		(offset
+			(xyz -1.75 0 -0.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

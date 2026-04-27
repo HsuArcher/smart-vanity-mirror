@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "2026-01-15_08-21-13")(type "KiCad")(uri "C:/Users/hsuAr/Downloads/VanityMirror_FootPrints/SN74AHCT125N/KiCADv6/2026-01-15_08-21-13.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/hsuAr/Downloads/VanityMirror_Symbols/New_Library.kicad_sym")(options "")(descr ""))
-)
